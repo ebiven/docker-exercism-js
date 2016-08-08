@@ -1,4 +1,10 @@
-= Using this container
+# About
+
+This container will have the items necessary to run the tests for the
+[Exercism.io](http://exercism.io/languages) JS, ECMAScript, and
+CoffeeScript tracks.
+
+# Using this container
 
 In your .bashrc, .zshrc, or similar file include aliases for the
 following commands:
